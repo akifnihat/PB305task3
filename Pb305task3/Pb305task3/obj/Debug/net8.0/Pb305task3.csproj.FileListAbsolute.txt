@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\PB305task3\Pb305task3\Pb305task3\bin\Debug\net8.0\Pb305task3.exe
+C:\Users\HP\Desktop\PB305task3\Pb305task3\Pb305task3\bin\Debug\net8.0\Pb305task3.deps.json
+C:\Users\HP\Desktop\PB305task3\Pb305task3\Pb305task3\bin\Debug\net8.0\Pb305task3.runtimeconfig.json
+C:\Users\HP\Desktop\PB305task3\Pb305task3\Pb305task3\bin\Debug\net8.0\Pb305task3.dll
+C:\Users\HP\Desktop\PB305task3\Pb305task3\Pb305task3\bin\Debug\net8.0\Pb305task3.pdb
+C:\Users\HP\Desktop\PB305task3\Pb305task3\Pb305task3\obj\Debug\net8.0\Pb305task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\PB305task3\Pb305task3\Pb305task3\obj\Debug\net8.0\Pb305task3.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\PB305task3\Pb305task3\Pb305task3\obj\Debug\net8.0\Pb305task3.AssemblyInfo.cs
+C:\Users\HP\Desktop\PB305task3\Pb305task3\Pb305task3\obj\Debug\net8.0\Pb305task3.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\PB305task3\Pb305task3\Pb305task3\obj\Debug\net8.0\Pb305task3.dll
+C:\Users\HP\Desktop\PB305task3\Pb305task3\Pb305task3\obj\Debug\net8.0\refint\Pb305task3.dll
+C:\Users\HP\Desktop\PB305task3\Pb305task3\Pb305task3\obj\Debug\net8.0\Pb305task3.pdb
+C:\Users\HP\Desktop\PB305task3\Pb305task3\Pb305task3\obj\Debug\net8.0\Pb305task3.genruntimeconfig.cache
+C:\Users\HP\Desktop\PB305task3\Pb305task3\Pb305task3\obj\Debug\net8.0\ref\Pb305task3.dll
